@@ -12,7 +12,6 @@ Como Usar
 
 1.Clone este repositório para o seu ambiente local:
 
-Copiar código:
 git clone https://github.com/DeividAND/Exercicios---Python.git
 cd lista-de-exercicios-python
 
