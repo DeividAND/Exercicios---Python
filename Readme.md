@@ -5,8 +5,6 @@ Bem-vindo à lista de exercícios em Python! Este repositório contém uma séri
 Estrutura do Repositório
 
 * `exercicios/`: Este diretório contém todos os exercícios. Cada exercício está em um arquivo Python separado.
-* `solucoes/`: Este diretório contém soluções sugeridas para os exercícios.
-* `README.md`: Este arquivo que você está lendo.
 
 Como Usar
 
