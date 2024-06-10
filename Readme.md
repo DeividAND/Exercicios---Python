@@ -20,4 +20,4 @@ python exercicio_01.py
 
 3.Abra o arquivo do exercício escolhido com o seu editor de texto favorito e siga as instruções descritas no arquivo.
 
-4.Para verificar sua solução, você pode comparar seu código com as soluções sugeridas no diretório `solucoes`.
+
